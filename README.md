@@ -24,3 +24,4 @@
 | ![](https://avatars.steamstatic.com/c6aa1140ec7ad18bdf185b13573c8f9eca021140.jpg) | dnlm        | [76561199179667601](https://steamcommunity.com/profiles/76561199179667601/) | ✅           | 2024-04-29 08:03:05 |                |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 17608954203 | [76561199812788034](https://steamcommunity.com/profiles/76561199812788034/) | ✅           | 2024-12-28 15:41:36 |                |          |
 | ![](https://avatars.steamstatic.com/9e12bfb85a0e11413457edbb38914b39156514dd.jpg) | Yoshino     | [76561199353605598](https://steamcommunity.com/profiles/76561199353605598/) | ✅           | 2024-04-29 12:53:53 |                |          |
+| ![](https://avatars.steamstatic.com/3f727c7eb586c248be8fc085c4409599592a61ca.jpg) | 扒皮西红柿       | [76561199791815576](https://steamcommunity.com/profiles/76561199791815576/) | ✅           | 2026-10-01 18:22:02 |                |          |
